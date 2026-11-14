@@ -1,1 +1,1 @@
-This line will create a merge conflict
+Recipes folder contains recipe for lavacake
